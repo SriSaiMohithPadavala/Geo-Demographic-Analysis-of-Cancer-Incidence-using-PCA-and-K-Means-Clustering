@@ -6,6 +6,15 @@
 
 This project explores the complex relationships between cancer incidence rates, population demographics, and geographic locations using Principal Component Analysis (PCA) and K-Means Clustering. The primary objective was to uncover significant patterns and correlations that could provide actionable insights for public health strategies, particularly in understanding how demographic factors and population sizes relate to cancer prevalence across different regions.
 
+**Data Source:**
+
+The CDC's Division of Population Health has developed a standardized set of 124 health indicators, established through expert consensus. These indicators are crucial for states, territories, and major cities to systematically collect and share data on chronic diseases, providing a consistent foundation for public health monitoring. The Chronic Disease Indicators (CDI) website also offers comprehensive data for each state and serves as a portal to additional data and resources, supporting further research and public health initiatives.
+
+URL:https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi
+
+
+
+
 **Context and Objective**
 
 With the rising incidence of cancer across various demographic groups, there is a growing need to understand how geographic and population-related factors contribute to these trends. As public health initiatives become increasingly data-driven, this project aims to provide a deeper understanding of these relationships by applying sophisticated data analysis techniques to a comprehensive dataset covering diverse regions and population groups within the United States.
