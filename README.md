@@ -2,6 +2,10 @@
 
 **Project Overview**
 ![image](https://github.com/user-attachments/assets/e24f2dc8-f38a-4fc4-9cc6-57b312036763)
+![image](https://github.com/user-attachments/assets/f5717358-a398-47dd-8e46-c372430dffb7)
+![image](https://github.com/user-attachments/assets/28587f63-9fa3-4605-91b5-25e1dabc40eb)
+
+
 
 
 This project explores the complex relationships between cancer incidence rates, population demographics, and geographic locations using Principal Component Analysis (PCA) and K-Means Clustering. The primary objective was to uncover significant patterns and correlations that could provide actionable insights for public health strategies, particularly in understanding how demographic factors and population sizes relate to cancer prevalence across different regions.
