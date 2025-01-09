@@ -1,4 +1,4 @@
-# -Geo-Demographic Analysis of Cancer Incidence using PCA and K-Means Clustering
+# Geo-Demographic Analysis of Cancer Incidence using PCA and K-Means Clustering
 
 **Project Overview**
 
