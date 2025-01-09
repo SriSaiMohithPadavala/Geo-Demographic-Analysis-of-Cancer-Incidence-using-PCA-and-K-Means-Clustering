@@ -1,11 +1,6 @@
-# -Multivariate-Geo-Demographic-Analysis-of-Cancer-Incidence-Using-PCA-and-K-Means-Clustering
+# -Geo-Demographic Analysis of Cancer Incidence using PCA and K-Means Clustering
 
 **Project Overview**
-![image](https://github.com/user-attachments/assets/e24f2dc8-f38a-4fc4-9cc6-57b312036763)
-![image](https://github.com/user-attachments/assets/f5717358-a398-47dd-8e46-c372430dffb7)
-![image](https://github.com/user-attachments/assets/28587f63-9fa3-4605-91b5-25e1dabc40eb)
-
-
 
 
 This project explores the complex relationships between cancer incidence rates, population demographics, and geographic locations using Principal Component Analysis (PCA) and K-Means Clustering. The primary objective was to uncover significant patterns and correlations that could provide actionable insights for public health strategies, particularly in understanding how demographic factors and population sizes relate to cancer prevalence across different regions.
@@ -15,7 +10,6 @@ This project explores the complex relationships between cancer incidence rates, 
 The CDC's Division of Population Health has developed a standardized set of 124 health indicators, established through expert consensus. These indicators are crucial for states, territories, and major cities to systematically collect and share data on chronic diseases, providing a consistent foundation for public health monitoring. The Chronic Disease Indicators (CDI) website also offers comprehensive data for each state and serves as a portal to additional data and resources, supporting further research and public health initiatives.
 
 URL:https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi
-
 
 
 
@@ -35,3 +29,9 @@ Analytical Approach
 **K-Means Clustering:** K-Means Clustering, with the elbow method determining 8 optimal clusters, was employed to segment the data into distinct groups, revealing patterns across different regions and demographics.
 
 **Interpretation:** The clusters were analyzed to draw meaningful conclusions about the correlation between population size, demographic composition, and cancer incidence rates.
+
+
+![image](https://github.com/user-attachments/assets/e24f2dc8-f38a-4fc4-9cc6-57b312036763)
+![image](https://github.com/user-attachments/assets/f5717358-a398-47dd-8e46-c372430dffb7)
+![image](https://github.com/user-attachments/assets/28587f63-9fa3-4605-91b5-25e1dabc40eb)
+
